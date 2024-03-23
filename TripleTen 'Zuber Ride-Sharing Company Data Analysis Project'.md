@@ -13,6 +13,32 @@ This project involves conducting exploratory data analysis (EDA) on a database c
 3. **Taxi Analysis**: Examining data from the cabs table to gain insights into taxi companies and vehicle information.
 4. **Ride Analysis**: Analyzing data from the trips table to identify patterns in ride duration, distance, and pickup/dropoff locations.
 
+neighborhoods table: data on city neighborhoods
+
+name: name of the neighborhood
+neighborhood_id: neighborhood code
+cabs table: data on taxis
+
+cab_id: vehicle code
+vehicle_id: the vehicle's technical ID
+company_name: the company that owns the vehicle
+trips table: data on rides
+
+trip_id: ride code
+cab_id: code of the vehicle operating the ride
+start_ts: date and time of the beginning of the ride (time rounded to the hour)
+end_ts: date and time of the end of the ride (time rounded to the hour)
+duration_seconds: ride duration in seconds
+distance_miles: ride distance in miles
+pickup_location_id: pickup neighborhood code
+dropoff_location_id: dropoff neighborhood code
+weather_records table: data on weather
+
+record_id: weather record code
+ts: record date and time (time rounded to the hour)
+temperature: temperature when the record was taken
+description: brief description of weather conditions, e.g. "light rain" or "scattered clouds"
+
 ### Investigative Analysis (Tasks 5-7)
 
 1. **Impact of Weather on Ride Duration**: Investigating whether weather conditions have an impact on ride duration by linking data from the trips and weather_records tables.
