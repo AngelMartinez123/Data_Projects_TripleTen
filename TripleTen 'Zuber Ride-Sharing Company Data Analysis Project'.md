@@ -4,16 +4,7 @@
 
 This project involves conducting exploratory data analysis (EDA) on a database containing information on taxi rides in Chicago, with the goal of understanding passenger preferences and the impact of external factors on rides for Zuber, a new ride-sharing company launching in the city. The database consists of several tables including neighborhoods, cabs, trips, and weather_records, each containing relevant data points such as ride duration, distance, pickup/dropoff locations, weather conditions, and more.
 
-## Tasks
-
-### Exploratory Data Analysis (Tasks 1-4)
-
-1. **Data Cleaning and Preparation**: Cleaning and preparing the dataset for analysis, ensuring data integrity and consistency.
-2. **Neighborhood Analysis**: Analyzing data from the neighborhoods table to understand neighborhood characteristics and distribution.
-3. **Taxi Analysis**: Examining data from the cabs table to gain insights into taxi companies and vehicle information.
-4. **Ride Analysis**: Analyzing data from the trips table to identify patterns in ride duration, distance, and pickup/dropoff locations.
-
-The data was spread across five files:
+The data was spread across four tables:
 
 - `'neighborhoods'`: data on city neighborhoods
     - `'name'`: name of the neighborhood
@@ -36,6 +27,16 @@ The data was spread across five files:
     - `'ts'`: record date and time (time rounded to the hour)
     - `'temperature'` : temperature when the record was taken
     - `'description'` : brief description of weather conditions, e.g. "light rain" or "scattered clouds"
+
+## Tasks
+
+### Exploratory Data Analysis (Tasks 1-4)
+
+1. **Data Cleaning and Preparation**: Cleaning and preparing the dataset for analysis, ensuring data integrity and consistency.
+2. **Neighborhood Analysis**: Analyzing data from the neighborhoods table to understand neighborhood characteristics and distribution.
+3. **Taxi Analysis**: Examining data from the cabs table to gain insights into taxi companies and vehicle information.
+4. **Ride Analysis**: Analyzing data from the trips table to identify patterns in ride duration, distance, and pickup/dropoff locations.
+
 
 ### Investigative Analysis (Tasks 5-7)
 
