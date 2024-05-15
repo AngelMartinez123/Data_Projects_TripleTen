@@ -1,5 +1,5 @@
 **Preview:**
-This project delves into the Shopify App Store landscape, examining app types, user reviews, and developer responsiveness to unearth vital insights essential for app success. Through meticulous data analysis and visualization, it aims to equip stakeholders with actionable insights for informed decision-making in app development and marketing strategies.
+This project analyzes the Shopify App Store landscape, exploring app types, user reviews, and developer responsiveness to uncover insights crucial for app success. Through comprehensive data analysis and visualization, it aims to empower stakeholders with actionable insights for effective decision-making in app development and marketing strategies.
 
 **Links:**
 - [Presentation Video](https://youtu.be/35VSYessPkY)
@@ -32,4 +32,5 @@ This project delves into the Shopify App Store landscape, examining app types, u
    - While analyzing peak ordering times wasn't feasible due to data limitations, dates were including day, month, quarter, and year. This allowed us to see a possibie trend appearing in a quarter to waurter basis with Q2 and Q4 having the least activity. This could be an opportunity to give out discount codes to customers, to keep them in our funnel and maintain a good LTV from customers. Possibly even suggest popular restaurants on top of that discount, and we will see customers repeating always and flooding us with orders in no time! In future iterations we could explore this aspect [exact order time] to optimize app infrastructure and enhance customer experience through targeted promotions and incentives.
 
 **Conclusion:**
+
 In conclusion, in this analysis I have provided valuable insights into restaurant performance, highlighting opportunities for revenue optimization and menu innovation. By leveraging these insights, Zomato can better support its partner restaurants and enhance customer satisfaction within its platform.
