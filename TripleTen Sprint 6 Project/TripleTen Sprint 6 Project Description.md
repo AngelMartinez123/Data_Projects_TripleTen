@@ -21,4 +21,5 @@ The analysis utilizes the shopify.xlsx dataset, consisting of four tables: apps,
 - **Weighted Developer Ratings:** To address potential rating biases, a new bar chart displays average weighted reviews by developer, offering a more nuanced perspective on developer performance.
 - **Developer Responsiveness Ranking:** A filtered bar chart identifies the most responsive developers by considering the developer_answered column, focusing on developers with a significant review count (greater than 500).
 
+### Conclusion
 Through this systematic analysis, the project aims to provide valuable insights into the Shopify App Store landscape, helping stakeholders make informed decisions regarding app development, marketing, and user engagement strategies.
